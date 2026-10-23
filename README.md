@@ -52,6 +52,7 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 }
 ```
 # Output:
+<img width="1042" height="590" alt="image" src="https://github.com/user-attachments/assets/0ae8612d-ece0-4cf1-b36c-b738ec5a5f47" />
 
 
 # Result: 
